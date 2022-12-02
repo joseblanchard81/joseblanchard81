@@ -6,7 +6,10 @@
 - 🔭 I am currently working as a **Senior DevOps/ Cloud Engineer**
 
 ### 💻 Tech Stack:
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat&logo=jenkins&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=azure-devops&logoColor=white) ![DevOps](https://img.shields.io/badge/DevOps-0A0A0A?style=flat&logo=DevOps&logoColor=white) ![CI/CD](https://img.shields.io/badge/CI/CD-4285F4?style=flat&logo=CI/CD&logoColor=white) ![Dropbox](https://img.shields.io/badge/Dropbox-%233B4D98.svg?style=for-the-badge&logo=Dropbox&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat&logo=jenkins&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat&logo=jenkins&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=azure-devops&logoColor=white) ![DevOps](https://img.shields.io/badge/DevOps-0A0A0A?style=flat&logo=DevOps&logoColor=white) ![CI/CD](https://img.shields.io/badge/CI/CD-4285F4?style=flat&logo=CI/CD&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-%233B4D98.svg?style=flat&logo=Kubernetes&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat&logo=jenkins&logoColor=white)
+
+
+
 
 ### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=joseblanchard81&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
